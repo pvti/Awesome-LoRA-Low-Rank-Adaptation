@@ -312,6 +312,7 @@ This repository provides a comprehensive survey of Low-Rank Adaptation (LoRA) me
 
 | Year | Title | Venue            | Paper | Code |
 |------|-------|------------------|-------|------|
+| 2023 | SuperLoRA: Parameter-Efficient Unified Adaptation of Large Foundation Models | BMVC             | [Link](https://www.merl.com/publications/docs/TR2024-156.pdf) |  - |
 | 2023 | **Low-Rank Adaptation of Large Language Model Rescoring for Parameter-Efficient Speech Recognition** | ASRU             | [Link](https://ieeexplore.ieee.org/abstract/document/10389632) |  - |
 | 2024 | Low-Rank Adaptation of Time Series Foundational Models for Out-of-Domain Modality Forecasting | -                | [Link](https://arxiv.org/abs/2405.10216) | -                                                            |
 | 2023 | Continual Learning with Low Rank Adaptation                  | NeurIPS Workshop | [Link](https://arxiv.org/abs/2311.17601) | -                                                            |
